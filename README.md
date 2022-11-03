@@ -1,2 +1,2 @@
 # DesainWeb
-![](images/home.jpg)
+![](images/1.jpg)
